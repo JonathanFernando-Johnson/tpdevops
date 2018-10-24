@@ -2,5 +2,5 @@ projectKey=devops:tpmaven
 serverUrl=http://localhost:9000
 serverVersion=7.3.0.15553
 dashboardUrl=http://localhost:9000/dashboard?id=devops%3Atpmaven
-ceTaskId=AWalfO33scquvtEhoNkW
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWalfO33scquvtEhoNkW
+ceTaskId=AWaljNAHscquvtEhoNkX
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWaljNAHscquvtEhoNkX
