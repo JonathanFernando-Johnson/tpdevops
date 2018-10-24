@@ -1,5 +1,7 @@
 package devops.tpmaven;
 
+import java.awt.Dimension;
+
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
@@ -34,5 +36,11 @@ public class AppTest
     public void testApp()
     {
         assertTrue( true );
+    }
+    
+    public void testJXBusyLabelTest()
+    {
+    	JXBusyLabelTest j = new JXBusyLabelTest();
+    	assertEquals(new Dimension(400, 160), j.getSize()); 
     }
 }
